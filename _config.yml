@@ -27,7 +27,7 @@ author:
   bio              : "Graduate of University of Washington"
   location         : "Seattle, WA, USA"
   employer         : "University of Washington"
-  uri              : # URL
+  URI              : "https://www.washington.edu/"
   email            : "leyug@uw.edu" 
 
   # Academic websites
