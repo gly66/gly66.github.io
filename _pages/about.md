@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Leyu Gao.
+I am a graduate student at the University of Washington studying computer science and software development. Prior to that, I earned a Bachelor of Engineering (Computing Science) from Tianjin University. I have had internships at Xiaomi and NXP Semiconductors. I have good coding foundation and rich development experience. Currently, I am looking for internship or full-time job opportunities in software development, product manager.
 
 A data-driven personal website
 ======
